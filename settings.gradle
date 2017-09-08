@@ -1,0 +1,1 @@
+include ':views', ':viewmodels', ':models', ':network', ':javautils', ':dataprovider'

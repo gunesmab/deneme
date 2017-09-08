@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RottenTomatos.iml" filepath="$PROJECT_DIR$/RottenTomatos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/views/app.iml" filepath="$PROJECT_DIR$/views/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dataprovider/dataprovider.iml" filepath="$PROJECT_DIR$/dataprovider/dataprovider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javautils/javautils.iml" filepath="$PROJECT_DIR$/javautils/javautils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/models/models.iml" filepath="$PROJECT_DIR$/models/models.iml" />
+      <module fileurl="file://$PROJECT_DIR$/network/network.iml" filepath="$PROJECT_DIR$/network/network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewmodels/viewmodels.iml" filepath="$PROJECT_DIR$/viewmodels/viewmodels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/views/views.iml" filepath="$PROJECT_DIR$/views/views.iml" />
+    </modules>
+  </component>
+</project>
